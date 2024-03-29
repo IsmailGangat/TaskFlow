@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|c:\\users\\igang\\desktop\\year-2 sem-1\\seng2020\\sq - final project\\taskflow-final\\taskflowwebapp\\taskpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\taskpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TaskFlowWebApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\alltasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\alltasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\incompletetasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\incompletetasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\alltasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\alltasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\completetasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\completetasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\taskpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\taskpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\incompletetasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\incompletetasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\completetasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\completetasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\taskflow.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\taskflow.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\appstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\appstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\taskflowwebapp\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB5699-2ED4-4F7D-B753-967D138E90E2}|TaskFlowWebApp\\TaskFlowWebApp.csproj|solutionrelative:taskflowwebapp\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskPage.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskPage.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\TaskPage.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskPage.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\TaskPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-24T21:20:52.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllTasks.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AllTasks.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\AllTasks.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AllTasks.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\AllTasks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\LoginPage.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskPage.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\TaskPage.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskPage.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\TaskPage.aspx.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAkwMEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllTasks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AllTasks.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\AllTasks.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AllTasks.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\AllTasks.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAADwv84AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompleteTasks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\CompleteTasks.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\CompleteTasks.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\CompleteTasks.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\CompleteTasks.aspx.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAswNMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Site.Master",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Site.Master",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Site.Master",
+              "RelativeToolTip": "TaskFlowWebApp\\Site.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-24T21:20:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Web.config",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Web.config",
+              "RelativeToolTip": "TaskFlowWebApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-24T21:20:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskFlowWebApp",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskFlowWebApp.csproj",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\TaskFlowWebApp.csproj",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\TaskFlowWebApp.csproj",
+              "RelativeToolTip": "TaskFlowWebApp\\TaskFlowWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000781|",
+              "WhenOpened": "2023-12-13T19:21:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncompleteTasks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\IncompleteTasks.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\IncompleteTasks.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\IncompleteTasks.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\IncompleteTasks.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IncompleteTasks.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\IncompleteTasks.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\IncompleteTasks.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\IncompleteTasks.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\IncompleteTasks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompleteTasks.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\CompleteTasks.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\CompleteTasks.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\CompleteTasks.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\CompleteTasks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Taskflow.js",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Taskflow.js",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Taskflow.js",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Taskflow.js",
+              "RelativeToolTip": "TaskFlowWebApp\\Taskflow.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-24T21:20:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Signup.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Signup.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Signup.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\About.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\About.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\About.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Contact.aspx",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Contact.aspx",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Contact.aspx",
+              "RelativeToolTip": "TaskFlowWebApp\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-03-24T21:20:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\Signup.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\Signup.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwB0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppStyle.css",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AppStyle.css",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\AppStyle.css",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\AppStyle.css",
+              "RelativeToolTip": "TaskFlowWebApp\\AppStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T21:20:52.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "TaskFlowWebApp\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\igang\\Desktop\\Year-2 Sem-1\\SENG2020\\SQ - Final Project\\Taskflow-Final\\TaskFlowWebApp\\LoginPage.aspx.cs",
+              "RelativeToolTip": "TaskFlowWebApp\\LoginPage.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-24T21:20:52.901Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
